@@ -1,0 +1,5 @@
+.rspec
+.bundle/
+
+bundle/
+doc/

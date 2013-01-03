@@ -1,0 +1,643 @@
+{
+  "data": [
+    {
+      "category": "Book", 
+      "name": "ハーバード流宴会術", 
+      "id": "502554316442433", 
+      "created_time": "2012-12-31T14:25:59+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "淡麗グリーンラベル / GREEN LABEL (GL)", 
+      "id": "211951022213458", 
+      "created_time": "2012-10-24T22:50:13+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "キリンビール / KIRIN BEER", 
+      "id": "201158866650814", 
+      "created_time": "2012-10-23T13:10:22+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "キリン のどごし<生> / NODOGOSHI NAMA", 
+      "id": "333942746646419", 
+      "created_time": "2012-10-23T13:06:41+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "HP Japan (日本ヒューレット・パッカード)", 
+      "id": "163371267039313", 
+      "created_time": "2012-10-23T12:59:01+0000"
+    }, 
+    {
+      "category": "Other", 
+      "name": "Totoro Crewneck Sweatshirt", 
+      "id": "205806896115987", 
+      "created_time": "2012-09-10T05:03:08+0000"
+    }, 
+    {
+      "category": "Computers/technology", 
+      "name": "Dell", 
+      "id": "393364824033060", 
+      "created_time": "2012-08-08T01:32:23+0000"
+    }, 
+    {
+      "category": "Community", 
+      "name": "バリが好き！", 
+      "id": "345856028769583", 
+      "created_time": "2012-08-05T06:50:11+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "ケンタッキーフライドチキン（KFC_JAPAN）", 
+      "id": "154647221270869", 
+      "created_time": "2012-07-21T02:49:40+0000"
+    }, 
+    {
+      "category": "Restaurant/cafe", 
+      "name": "GuildCafe Costa（ギルドカフェ　コスタ）", 
+      "id": "144762495615501", 
+      "created_time": "2012-07-20T05:10:55+0000"
+    }, 
+    {
+      "category": "Computers/internet website", 
+      "name": "Qiita(キータ)", 
+      "id": "223678721001308", 
+      "created_time": "2012-06-22T09:31:36+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "Budweiser Japan", 
+      "id": "357661894265018", 
+      "created_time": "2012-06-18T14:06:14+0000"
+    }, 
+    {
+      "category": "Train station", 
+      "name": "Tosu Station", 
+      "id": "109479719134342", 
+      "created_time": "2012-06-16T21:30:44+0000"
+    }, 
+    {
+      "category": "Games/toys", 
+      "name": "プレミアムバンダイ", 
+      "id": "440776565939474", 
+      "created_time": "2012-06-16T02:49:47+0000"
+    }, 
+    {
+      "category": "Travel/leisure", 
+      "name": "Jetstar Japan", 
+      "id": "127558453993821", 
+      "created_time": "2012-06-16T02:48:41+0000"
+    }, 
+    {
+      "category": "Shopping/retail", 
+      "name": "ベルメゾン（bellemaison）", 
+      "id": "133749466692258", 
+      "created_time": "2012-05-24T12:20:55+0000"
+    }, 
+    {
+      "category": "Games/toys", 
+      "name": "株式会社ペーパーボーヤ", 
+      "id": "356115034400853", 
+      "created_time": "2012-04-27T04:19:20+0000"
+    }, 
+    {
+      "category": "Computers/internet website", 
+      "name": "MuuMuu Domain", 
+      "id": "338604212826220", 
+      "created_time": "2012-04-17T05:43:32+0000"
+    }, 
+    {
+      "category": "Personal blog", 
+      "name": "Lang-8 - Multi-lingual language learning and language exchange Lang-8", 
+      "id": "258463274215038", 
+      "created_time": "2012-03-29T04:39:14+0000"
+    }, 
+    {
+      "category": "App page", 
+      "name": "MONIPLA モニプラ", 
+      "id": "282371121817533", 
+      "created_time": "2012-03-20T13:02:14+0000"
+    }, 
+    {
+      "category": "Computers/internet website", 
+      "name": "ザ・インタビューズ", 
+      "id": "254303644581572", 
+      "created_time": "2012-03-19T07:38:02+0000"
+    }, 
+    {
+      "category": "Local business", 
+      "name": "Bar Applautir", 
+      "id": "264802866870838", 
+      "created_time": "2012-03-15T22:56:24+0000"
+    }, 
+    {
+      "category": "City", 
+      "name": "Tosu-shi, Saga, Japan", 
+      "id": "194089697294217", 
+      "created_time": "2012-03-11T09:49:42+0000"
+    }, 
+    {
+      "category": "City", 
+      "name": "Tosu-shi, Saga, Japan", 
+      "id": "125808504153906", 
+      "created_time": "2012-03-11T09:49:32+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "ムームードメイン", 
+      "id": "137163606330714", 
+      "created_time": "2012-02-14T06:06:35+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "ロリポップ！レンタルサーバー", 
+      "id": "135553756497473", 
+      "created_time": "2012-02-14T06:03:38+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "picplz", 
+      "id": "131637400184101", 
+      "created_time": "2012-02-07T07:04:53+0000"
+    }, 
+    {
+      "category": "University", 
+      "name": "佐賀大学", 
+      "id": "108481702517215", 
+      "created_time": "2012-01-24T21:51:48+0000"
+    }, 
+    {
+      "category": "Music", 
+      "name": "相対性理論", 
+      "id": "107385249293113", 
+      "created_time": "2012-01-23T13:19:12+0000"
+    }, 
+    {
+      "category": "Recreation/sports website", 
+      "name": "テニス好き", 
+      "id": "129620843732991", 
+      "created_time": "2012-01-19T15:38:46+0000"
+    }, 
+    {
+      "category": "App page", 
+      "name": "Twitter", 
+      "id": "278029242253904", 
+      "created_time": "2012-01-14T11:53:05+0000"
+    }, 
+    {
+      "category": "Games/toys", 
+      "name": "Fieldrunners", 
+      "id": "214341951931312", 
+      "created_time": "2012-01-02T03:09:45+0000"
+    }, 
+    {
+      "category": "Athlete", 
+      "name": "杉内俊哉", 
+      "id": "109703739101363", 
+      "created_time": "2011-12-15T07:03:45+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Famiポートクーポン", 
+      "id": "247088715345545", 
+      "created_time": "2011-11-22T14:03:08+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "ペイパル（PayPal） 日本語", 
+      "id": "252040838174046", 
+      "created_time": "2011-11-15T02:47:01+0000"
+    }, 
+    {
+      "category": "Internet/software", 
+      "name": "Paperboy&co.", 
+      "id": "164489816910252", 
+      "created_time": "2011-11-06T01:47:47+0000"
+    }, 
+    {
+      "category": "Software", 
+      "name": "Sleipnir Mobile", 
+      "id": "201886329857138", 
+      "created_time": "2011-11-02T00:47:39+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "Google+", 
+      "id": "212635448777769", 
+      "created_time": "2011-10-18T12:52:48+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "鉄板焼 虎鉄", 
+      "id": "171325002945236", 
+      "created_time": "2011-10-02T00:08:37+0000"
+    }, 
+    {
+      "category": "Book", 
+      "name": "Fermat's last theorem", 
+      "id": "103727182998904", 
+      "created_time": "2011-10-01T00:36:56+0000"
+    }, 
+    {
+      "category": "Internet/software", 
+      "name": "Bitcasa", 
+      "id": "229343240413914", 
+      "created_time": "2011-09-30T22:39:18+0000"
+    }, 
+    {
+      "category": "Shopping/retail", 
+      "name": "鳥栖プレミアム・アウトレット", 
+      "id": "180566355323557", 
+      "created_time": "2011-09-11T02:45:56+0000"
+    }, 
+    {
+      "category": "Local business", 
+      "name": "山茶花の湯", 
+      "id": "121426571273826", 
+      "created_time": "2011-09-11T02:45:43+0000"
+    }, 
+    {
+      "category": "Album", 
+      "name": "アメイジング・グレイス", 
+      "id": "198626506835976", 
+      "created_time": "2011-08-21T14:21:27+0000"
+    }, 
+    {
+      "category": "Games/toys", 
+      "name": "【公式】 ラグナロクオンライン （RagnarokOnline）", 
+      "id": "139408469460886", 
+      "created_time": "2011-07-24T07:27:09+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "Lang-8", 
+      "id": "27566414308", 
+      "created_time": "2011-07-18T00:34:38+0000"
+    }, 
+    {
+      "category": "Athlete", 
+      "name": "本多雄一", 
+      "id": "163588667022858", 
+      "created_time": "2011-06-30T22:27:46+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "HTML5", 
+      "id": "111131545573950", 
+      "created_time": "2011-06-17T11:47:51+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "デザインどや！？", 
+      "id": "154586684574084", 
+      "created_time": "2011-06-17T11:43:32+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "Redmine.JP", 
+      "id": "179740128733126", 
+      "created_time": "2011-06-14T03:26:18+0000"
+    }, 
+    {
+      "category": "Retail and consumer merchandise", 
+      "name": "ローソン（LAWSON）", 
+      "id": "141575369223202", 
+      "created_time": "2011-06-14T00:24:21+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "Oreo", 
+      "id": "114998944652", 
+      "created_time": "2011-06-09T14:17:17+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "GitHub", 
+      "id": "50595864761", 
+      "created_time": "2011-06-09T13:38:18+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "YouTube", 
+      "id": "7270241753", 
+      "created_time": "2011-05-29T13:53:31+0000"
+    }, 
+    {
+      "category": "Movie", 
+      "name": "Pirates of the Caribbean", 
+      "id": "113294925350820", 
+      "created_time": "2011-05-28T05:27:37+0000"
+    }, 
+    {
+      "category": "University", 
+      "name": "Saga University", 
+      "id": "175530915830466", 
+      "created_time": "2011-05-09T21:46:24+0000"
+    }, 
+    {
+      "category": "Food/beverages", 
+      "name": "Starbucks", 
+      "id": "22092443056", 
+      "created_time": "2011-05-05T00:56:27+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Python", 
+      "id": "7899581788", 
+      "created_time": "2011-04-27T13:06:09+0000"
+    }, 
+    {
+      "category": "Computers/technology", 
+      "name": "Sencha", 
+      "id": "96223925772", 
+      "created_time": "2011-04-27T13:05:52+0000"
+    }, 
+    {
+      "category": "Software", 
+      "name": "Drop box", 
+      "id": "203139096366715", 
+      "created_time": "2011-04-24T06:03:34+0000"
+    }, 
+    {
+      "category": "App page", 
+      "name": "Duolingo", 
+      "id": "141935472517297", 
+      "created_time": "2011-04-18T14:25:22+0000"
+    }, 
+    {
+      "category": "Internet/software", 
+      "name": "Evernote", 
+      "id": "30670583128", 
+      "created_time": "2011-04-17T01:00:17+0000"
+    }, 
+    {
+      "category": "Movie", 
+      "name": "Spirited Away", 
+      "id": "203626029661637", 
+      "created_time": "2011-04-17T01:00:05+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Wondershake", 
+      "id": "173503599328820", 
+      "created_time": "2011-04-16T05:41:21+0000"
+    }, 
+    {
+      "category": "Non-profit organization", 
+      "name": "Wikipedia", 
+      "id": "33138223345", 
+      "created_time": "2011-04-03T13:41:06+0000"
+    }, 
+    {
+      "category": "Tv show", 
+      "name": "Trick", 
+      "id": "103099519730906", 
+      "created_time": "2011-03-12T10:40:59+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "Prezi", 
+      "id": "112328688779697", 
+      "created_time": "2011-03-07T11:52:54+0000"
+    }, 
+    {
+      "category": "Tv show", 
+      "name": "プラネテス", 
+      "id": "108476639183522", 
+      "created_time": "2011-03-05T16:21:07+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Ragnarok Online", 
+      "id": "106183502746449", 
+      "created_time": "2011-03-05T11:42:16+0000"
+    }, 
+    {
+      "category": "Games/toys", 
+      "name": "Ragnarok Online", 
+      "id": "104371079730", 
+      "created_time": "2011-03-05T11:41:37+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Tポイント", 
+      "id": "100347396709910", 
+      "created_time": "2011-03-05T04:31:50+0000"
+    }, 
+    {
+      "category": "Community", 
+      "name": "Nozomi Sasaki 佐々木希", 
+      "id": "119371988099928", 
+      "created_time": "2011-02-26T12:38:34+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Skype", 
+      "id": "29282006975", 
+      "created_time": "2011-02-19T09:28:52+0000"
+    }, 
+    {
+      "category": "Company", 
+      "name": "TechCrunch", 
+      "id": "8062627951", 
+      "created_time": "2011-02-19T05:18:02+0000"
+    }, 
+    {
+      "category": "Software", 
+      "name": "Google Chrome", 
+      "id": "321662419491", 
+      "created_time": "2011-02-19T03:58:34+0000"
+    }, 
+    {
+      "category": "Product/service", 
+      "name": "Picasa", 
+      "id": "115795241798996", 
+      "created_time": "2011-02-13T15:02:43+0000"
+    }, 
+    {
+      "category": "Media/news/publishing", 
+      "name": "VOA Learning English (Special English)", 
+      "id": "103481483020802", 
+      "created_time": "2011-02-13T13:54:40+0000"
+    }, 
+    {
+      "category": "Website", 
+      "name": "Gmail", 
+      "id": "5654204293", 
+      "created_time": "2011-02-11T12:40:48+0000"
+    }, 
+    {
+      "category": "Software", 
+      "name": "Adobe After Effects", 
+      "id": "8932638546", 
+      "created_time": "2011-02-05T14:26:00+0000"
+    }, 
+    {
+      "category": "Movie", 
+      "name": "Harry Potter", 
+      "id": "156794164312", 
+      "created_time": "2011-02-01T11:14:39+0000"
+    }, 
+    {
+      "category": "Cars", 
+      "name": "Toyota WiLL", 
+      "id": "123784617668016", 
+      "created_time": "2011-01-31T12:23:39+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Hamilton Island", 
+      "id": "106049699425802", 
+      "created_time": "2011-01-31T12:11:19+0000"
+    }, 
+    {
+      "category": "Movie", 
+      "name": "魔女の宅急便", 
+      "id": "114297918587325", 
+      "created_time": "2011-01-30T12:44:32+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Toyota Vitz", 
+      "id": "109545409071249", 
+      "created_time": "2011-01-29T05:33:06+0000"
+    }, 
+    {
+      "category": "Musician/band", 
+      "name": "Mr.Children", 
+      "id": "27299967587", 
+      "created_time": "2011-01-29T05:05:32+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Age of Empires II: The Conquerors", 
+      "id": "107754125914755", 
+      "created_time": "2011-01-28T12:38:17+0000"
+    }, 
+    {
+      "category": "Software", 
+      "name": "Adobe Photoshop", 
+      "id": "6147239684", 
+      "created_time": "2011-01-27T14:52:06+0000"
+    }, 
+    {
+      "category": "Tv show", 
+      "name": "ONE PIECE", 
+      "id": "485359835553", 
+      "created_time": "2011-01-27T13:11:08+0000"
+    }, 
+    {
+      "category": "Musician/band", 
+      "name": "Avril Lavigne", 
+      "id": "5413509299", 
+      "created_time": "2011-01-26T13:21:42+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Studio Ghibli", 
+      "id": "107958892566097", 
+      "created_time": "2011-01-16T02:19:32+0000"
+    }, 
+    {
+      "category": "Movie", 
+      "name": "となりのトトロ", 
+      "id": "116314101712416", 
+      "created_time": "2011-01-16T02:16:12+0000"
+    }, 
+    {
+      "category": "School", 
+      "name": "鳥栖高等学校", 
+      "id": "111926755491857", 
+      "created_time": "2011-01-15T13:51:03+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Open source", 
+      "id": "104099422960739", 
+      "created_time": "2011-01-15T13:44:57+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "CakePHP", 
+      "id": "112600242088531", 
+      "created_time": "2011-01-15T13:44:57+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "Android", 
+      "id": "103818329656399", 
+      "created_time": "2011-01-15T13:44:57+0000"
+    }, 
+    {
+      "category": "City", 
+      "name": "Tosu-shi, Saga, Japan", 
+      "id": "103137006393418", 
+      "created_time": "2011-01-15T13:11:06+0000"
+    }, 
+    {
+      "category": "City", 
+      "name": "Saga-shi, Saga, Japan", 
+      "id": "112012015477739", 
+      "created_time": "2011-01-15T13:08:44+0000"
+    }, 
+    {
+      "category": "Professional sports team", 
+      "name": "Fukuoka SoftBank Hawks", 
+      "id": "114309715246578", 
+      "created_time": "2011-01-10T01:17:34+0000"
+    }, 
+    {
+      "category": "City", 
+      "name": "Yoshinogari, Saga", 
+      "id": "104049102966917", 
+      "created_time": "2011-01-10T01:05:27+0000"
+    }, 
+    {
+      "category": "Computers/internet website", 
+      "name": "Facebook Japan", 
+      "id": "365989369023", 
+      "created_time": "2010-11-10T11:21:08+0000"
+    }, 
+    {
+      "category": "Tv", 
+      "name": "めちゃイケ", 
+      "id": "101970273174844", 
+      "created_time": "2010-11-03T12:03:19+0000"
+    }, 
+    {
+      "category": "Musician/band", 
+      "name": "Bump of Chicken", 
+      "id": "105637172802093", 
+      "created_time": "2010-11-03T12:03:19+0000"
+    }, 
+    {
+      "category": "Musician/band", 
+      "name": "スピッツ", 
+      "id": "115579085122592", 
+      "created_time": "2010-11-03T12:03:19+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "テニス", 
+      "id": "408047810925", 
+      "created_time": "2010-11-03T12:03:19+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "プログラミング", 
+      "id": "409256310548", 
+      "created_time": "2010-11-03T12:03:18+0000"
+    }, 
+    {
+      "category": "Interest", 
+      "name": "野球観戦", 
+      "id": "371256447599", 
+      "created_time": "2010-11-03T12:03:18+0000"
+    }
+  ], 
+  "paging": {
+    "next": "https://graph.facebook.com/100001529256922/likes?limit=5000&offset=5000&__after_id=371256447599"
+  }
+}

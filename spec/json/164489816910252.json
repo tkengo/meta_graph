@@ -1,0 +1,30 @@
+{
+  "about": "私たちpaperboy&co.（ペーパーボーイアンドコー）は、「もっとおもしろくできる」を理念として、すべての企業活動において、他社よりもおもしろいものを目指します。", 
+  "can_post": true, 
+  "company_overview": "【世の中をもっとおもしろく、そしてワクワクさせるインターネットサービス！】\n\npaperboy&co.（ペパボ）は、インターネットを使った自己表現やコミュニケーションを支えるクリエイター集団です。ブログやサーバー、電子書籍の作成、販売支援など、多数のインターネットサービスをリーズナブルかつ使いやすく、楽しい機能を取り入れて提供しています。 \n\n", 
+  "founded": "2003年1月10日", 
+  "is_published": true, 
+  "location": {
+    "street": "桜丘町26-1", 
+    "city": "Shibuya-ku", 
+    "state": "Tokyo", 
+    "country": "Japan", 
+    "zip": "1508512"
+  }, 
+  "mission": "『より多くの人に情報発信する喜びを提供する』\n\npaperboy&co.が提供しているサービスのターゲットは自己表現をしたい個人の方です。インターネットを活用した自己表現や情報発信を支援するためのサービスを「低価格で使いやすく」提供することで、より多くの人に情報発信することの喜びを感じて欲しいと願っています。\n\n", 
+  "products": "★サーバーホスティング、ドメインサービス\nロリポップ！ http://lolipop.jp/\nheteml（ヘテムル） http://heteml.jp/\nムームードメイン http://muumuu-domain.com/\nSqale（スケール）http://sqale.jp/\n\n★ショッピング、EC支援サービス\nカラーミーショップ http://shop-pro.jp/\nカラメル http://calamel.jp/\nminne（ミンネ） http://minne.com/\nECフォト http://ec-photo.jp/\n\n★コミュニティサービス\nJUGEM http://jugem.jp/\nGrouptube http://grouptube.jp/\nログピ http://logpi.jp/\nザ・インタビューズ http://theinterviews.jp/\n\n★写真、ホームページ作成、音楽配信サービス\nプチ・ホームページサービス http://petit.cc/\n30days Album（サーティーデイズ アルバム） http://30d.jp/\nGoope（グーペ） http://goope.jp/\nFANIC（ファニック） http://fanic.jp/\n\n\n★電子書籍関連サービス\nブクログ http://booklog.jp/\nパブー http://p.booklog.jp/\n\n\n★ネットのおサイフとギフトサービス\nおさいぽ！ http://osaipo.jp/\nギフポ http://gifpo.jp/", 
+  "talking_about_count": 22, 
+  "username": "PEPABO", 
+  "website": "http://www.paperboy.co.jp/", 
+  "were_here_count": 0, 
+  "category": "Internet/software", 
+  "id": "164489816910252", 
+  "name": "Paperboy&co.", 
+  "link": "https://www.facebook.com/PEPABO", 
+  "likes": 9731, 
+  "cover": {
+    "cover_id": 551075911584972, 
+    "source": "https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-snc7/s720x720/299425_551075911584972_537694850_n.jpg", 
+    "offset_y": 0
+  }
+}
