@@ -10,6 +10,17 @@ describe MetaGraph::Client do
     @client.access_token.should == MetaGraph::RSPEC_ACCESS_TOKEN
   end
 
+  context 'when get a connection from Graph API' do
+    before do
+      regist_mock 'me/likes'
+      @likes = @client.get('me/likes')
+    end
+
+    it 'should access collection' do
+      @likes.should have(106).items
+    end
+  end
+
   context 'when get a data from Graph API' do
     before do
       regist_mock :me

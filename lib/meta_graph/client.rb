@@ -17,7 +17,6 @@ module MetaGraph
     #                Please set to oauth's access_token.
     #
     def initialize(access_token)
-      # @access_token = 'AAAID6yj9MNUBADYun1fW1WDQRAxZB8DD8TjmBJxD5ZAYqZBt3n2ADJfmO3VeV6Svkkog4GZB08vYknGzKJcWbA3onfGTqO38XwzpESHJxAZDZD'
       @access_token = access_token
     end
 
@@ -29,7 +28,12 @@ module MetaGraph
     #
     def get(path)
       resource = Resource.new(@access_token, path.to_s)
-      Node.new(@access_token, resource.fields, resource.connections)
+
+      if resource.data && resource.data.is_a?(Array)
+        Collection.new(@access_token, resource.data)
+      else
+        Node.new(@access_token, resource.fields, resource.connections)
+      end
     end
 
     #

@@ -68,6 +68,13 @@ module MetaGraph
     end
 
     #
+    # Get a collection data
+    #
+    def data
+      return @api_result[:data] if @api_result.key?(:data)
+    end
+
+    #
     # Get an array of connections that has a key named connection name.
     #
     def connections
