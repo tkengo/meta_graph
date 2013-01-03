@@ -5,3 +5,5 @@ bundle/
 doc/
 
 Gemfile.lock
+
+meta_graph-*.gem
