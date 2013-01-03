@@ -64,8 +64,8 @@ describe MetaGraph::Client do
         it 'should read a value from Graph API' do
           @employer.id.should == '164489816910252'
           @employer.name.should == 'Paperboy&co.'
-          @employer.location.zip == '1508512'
-          @employer.location.country == 'Japan'
+          @employer.location.zip.should == '1508512'
+          @employer.location.country.should == 'Japan'
         end
       end
     end
