@@ -7,10 +7,10 @@ Gem::Specification.new do |s|
   s.authors     = [ 'Kengo Tateishi' ]
   s.email       = 'embrace.ddd.flake.peace@gmail.com'
   s.files       = `git ls-files`.split("\n")
-  s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
+  s.test_files  = `git ls-files -- {spec}/*`.split("\n")
   s.homepage    = 'https://github.com/tkengo/meta_graph'
 
   s.add_runtime_dependency 'httpclient'
-  s.add_runtime_dependency 'rspec'
-  s.add_runtime_dependency 'webmock'
+  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'webmock'
 end
