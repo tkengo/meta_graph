@@ -13,7 +13,7 @@ describe MetaGraph::Client do
   context 'when get a connection from Graph API' do
     before do
       regist_mock 'me/likes'
-      @likes = @client.get('me/likes')
+      @likes = @client.fetch('me/likes')
     end
 
     it 'should access collection' do

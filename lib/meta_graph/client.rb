@@ -26,7 +26,7 @@ module MetaGraph
     # === Argument
     # [path] ID you want or full URL.
     #
-    def get(path)
+    def fetch(path)
       resource = Resource.new(@access_token, path.to_s)
 
       if resource.data && resource.data.is_a?(Array)
@@ -37,10 +37,10 @@ module MetaGraph
     end
 
     #
-    # Get a your *User* data from Graph API. It equals to get('me').
+    # Get a your *User* data from Graph API. It equals to fetch('me').
     #
     def me
-      get(:me)
+      fetch(:me)
     end
   end
 end
