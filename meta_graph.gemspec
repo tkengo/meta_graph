@@ -1,7 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'meta_graph'
   s.version     = File.read('VERSION').delete("\n\r")
-  s.date        = '2013-01-03'
   s.summary     = 'Meta Graph'
   s.description = 'A lightweight client of Facebook Graph API'
   s.authors     = [ 'Kengo Tateishi' ]
