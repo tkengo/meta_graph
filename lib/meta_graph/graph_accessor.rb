@@ -4,12 +4,7 @@ module MetaGraph
       if data.is_a?(Array)
         Collection.new(access_token, data)
       elsif data.is_a?(Hash)
-        if data.key?(:id)
-          resource = Resource.new(access_token, data[:id])
-          Node.new(access_token, resource.fields, resource.connections)
-        else
-          Node.new(access_token, data)
-        end
+        Node.new(access_token, data)
       else
         data
       end

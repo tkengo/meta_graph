@@ -32,7 +32,7 @@ module MetaGraph
       if resource.data && resource.data.is_a?(Array)
         Collection.new(@access_token, resource.data)
       else
-        Node.new(@access_token, resource.fields, resource.connections)
+        Node.new(@access_token, resource)
       end
     end
 
