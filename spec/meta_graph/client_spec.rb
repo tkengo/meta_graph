@@ -42,6 +42,12 @@ describe MetaGraph::Client do
         @likes.should have(106).items
       end
 
+      it "should call 'each' method" do
+        @likes.each do |like|
+          like.id.should_not be_nil
+        end
+      end
+
       context 'when read a value contained id key' do
         before do
           regist_mock '116314101712416'
